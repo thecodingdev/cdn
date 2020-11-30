@@ -12,3 +12,8 @@ function wasdllc() {
     var new_window = window.open("https://www.wasdtech.net/", "_blank");
     new_window.focus();
 }
+
+function thetestguru() {
+    var new_window = window.open("https://www.thetestguru.co.uk/", "_blank");
+    new_window.focus();
+}
